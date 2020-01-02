@@ -1,17 +1,17 @@
 {
-  "name": "asincronismo-curso-platzi",
-  "version": "1.0.0",
-  "description": "trabajar con asincronismo en javascript",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "callbacks",
-    "promise",
-    "asyn",
-    "await"
-  ],
-  "author": "luis guananga",
-  "license": "MIT"
+    "name": "asincronismo-curso-platzi",
+    "version": "1.0.0",
+    "description": "trabajar con asincronismo en javascript",
+    "main": "src/index.js",
+    "scripts": {
+        "callback": "node src/callbacks/index.js"
+    },
+    "keywords": [
+        "callbacks",
+        "promise",
+        "asyn",
+        "await"
+    ],
+    "author": "luis guananga",
+    "license": "MIT"
 }
