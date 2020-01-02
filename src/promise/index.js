@@ -12,3 +12,4 @@ someThingWillHappen()
     .then(response => console.log(response))
     .catch(error => console.error(error));
 /*asd 3*/
+//asd 4
