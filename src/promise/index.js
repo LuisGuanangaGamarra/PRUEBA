@@ -10,10 +10,4 @@ const someThingWillHappen = () => {
 
 someThingWillHappen()
     .then(response => console.log(response))
-<<<<<<< HEAD
     .catch(error => console.error(error));
-/*asd 3*/
-//asd 4
-=======
-    .catch(error => console.error(error));
->>>>>>> parent of d695186... ASD3
