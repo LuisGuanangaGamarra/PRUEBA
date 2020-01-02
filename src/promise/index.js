@@ -10,9 +10,4 @@ const someThingWillHappen = () => {
 
 someThingWillHappen()
     .then(response => console.log(response))
-<<<<<<< HEAD
     .catch(error => console.error(error));
-=======
-    .catch(error => console.error(error));
-/*AAAA*/
->>>>>>> parent of 867e0ef... ASD 6
